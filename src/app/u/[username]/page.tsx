@@ -118,7 +118,7 @@ function Page() {
             <h3>Click on the text you want to select</h3>
             <div className='w-full border-2 h-52 flex flex-col p-3 justify-between mt-2 rounded-lg'>
                 {suggestMessage.map((message,index)=>(
-                    <button className='bg-white text-black border-2 p-2 rounded-sm hover:bg-slate-200' onClick={()=>handleMessageButton(message)}>
+                    <button key={index} className='bg-white text-black border-2 p-2 rounded-sm hover:bg-slate-200' onClick={()=>handleMessageButton(message)}>
                         {message}
                     </button>
                 ))}

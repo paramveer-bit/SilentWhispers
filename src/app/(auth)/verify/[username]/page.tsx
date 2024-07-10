@@ -96,7 +96,7 @@ function VerifyAccount() {
               />
               <div className='flex justify-between'>
                 <Button type="submit">Submit</Button>
-                <Button variant="destructive" type='button' onClick={handleResend} disabled={resend}>Resend Email</Button>
+                <Button variant="destructive" type='button' onClick={handleResend} disabled={resend} >Resend Email</Button>
               </div>
             </form>
           </Form>
