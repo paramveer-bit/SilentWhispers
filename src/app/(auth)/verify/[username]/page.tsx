@@ -37,7 +37,6 @@ function verifyAccount() {
             })
             router.replace('/sign-in')
         } catch (error: any) {
-          console.log(error.response)
           toast({
             title:"Failed",
             description : error.response?.data.message,

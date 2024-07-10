@@ -31,7 +31,6 @@ export async function GET(req:NextRequest){
 
         const user = await UserModel.findOne({username,isVerified:true})
         if(user){
-            console.log(user)
             return NextResponse.json({
                 success : true,
                 message : "User name already taken"
@@ -45,7 +44,6 @@ export async function GET(req:NextRequest){
 
         
     } catch (error) {
-        console.log(error,"Error in checking user")
         return NextResponse.json({
             success : false,
             message : "error in checking unique user"

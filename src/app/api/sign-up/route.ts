@@ -66,7 +66,6 @@ export async function POST(req:NextRequest){
         return res.json({message:"Verification mail sent",success:true},{status:200})
         
     } catch (error) {
-        // console.log("Error occured while regesting user"+error)
         return NextResponse.json({error:"Error in sing-up"},{status:401})
     }
 

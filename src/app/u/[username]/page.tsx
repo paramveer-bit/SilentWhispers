@@ -51,12 +51,10 @@ function uPage() {
     const onSubmit = async (data: z.infer<typeof messageSchema>)=>{
         setIsSendindg(true)
         try {
-            console.log(data.content)
             const res = await axios.post('/api/send-message',{
                 username : param.username,
                 content : data.content
             })
-            console.log(res)
             toast({
                 title : "success",
                 description : res.data.message,

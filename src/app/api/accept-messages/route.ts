@@ -40,7 +40,6 @@ export async function POST(req:NextRequest){
 
 
     } catch (error) {
-        console.log(error);
         return NextResponse.json({
             success: false,
             message : "Fail to change accept message"
@@ -82,7 +81,6 @@ export async function GET(req:NextRequest){
 
 
     } catch (error) {
-        console.log(error);
         return NextResponse.json({
             success: false,
             message : "Fail to check accept message"

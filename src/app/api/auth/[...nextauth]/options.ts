@@ -22,7 +22,6 @@ export const authOptions :NextAuthOptions = {
                 if(!user){
                     throw new Error("User not found")
                 }
-                console.log("User")
 
                 if(!user.isVerified){
                     throw new Error("User is not verified")

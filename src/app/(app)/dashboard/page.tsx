@@ -43,7 +43,6 @@ function dashboardPage() {
       const res = await axios.get('/api/accept-messages')
       setValue('acceptMessages',res.data.isAcceptingMesseges)
     } catch (error) {
-      console.log(error);
       toast({
         title : "Error",
         description : "Fail to fetch Accept message status",
@@ -54,7 +53,6 @@ function dashboardPage() {
   },[setValue])
 
   const fetchMessages = useCallback(async(refresh:boolean = false)=>{
-    console.log(refresh)
     setIsLoading(true)
     setIsSwitchLoading(false)
     try {
@@ -69,7 +67,6 @@ function dashboardPage() {
       }
 
     } catch (error) {
-        console.log(error);
         toast({
           title : "Error",
           description : "Fail to fetch message inside"
@@ -101,7 +98,6 @@ function dashboardPage() {
         className : " border-2 border-green-600"
       })
     } catch (error) {
-        console.log(error);
         toast({
           title : "Error",
           description : "Fail to fetch message",

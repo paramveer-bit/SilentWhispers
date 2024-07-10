@@ -40,10 +40,8 @@ function signInPage() {
       identifier : data.identifier,
       password : data.password
     })
-    console.log(res)
 
     if(res?.error){
-      console.log(res.error)
       if(res.error == 'CredentialsSignin'){
         toast({
           title : 'Login Failed',
@@ -59,7 +57,7 @@ function signInPage() {
       }
     }
     if (res?.url) {
-      console.log(router.replace('/dashboard'));
+      router.replace('/dashboard');
     }
 
   }
