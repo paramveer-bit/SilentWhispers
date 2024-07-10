@@ -1,0 +1,693 @@
+[
+    [
+      "What's your favorite way to relax after a long day?",
+      "If you could learn any language instantly, which one would you choose and why?",
+      "What's a place you've always wanted to visit, and what attracts you to it?"
+    ],
+    [
+      "What's a memorable experience that changed your perspective on life?",
+      "If you could have any superpower, what would it be and how would you use it?",
+      "What's a song or piece of music that always lifts your spirits?"
+    ],
+    [
+      "What book or movie has had a significant impact on your life?",
+      "If you could travel anywhere in the world, where would you go and why?",
+      "What's one skill you wish you could instantly master?"
+    ],
+    [
+      "What's a hobby you've recently started?",
+      "If you could have dinner with any historical figure, who would it be?",
+      "What's a simple thing that makes you happy?"
+    ],
+    [
+      "What's the most interesting place you've ever visited?",
+      "If you could time travel, would you go to the past or the future?",
+      "What's a favorite memory from your childhood?"
+    ],
+    [
+      "What's something you've always wanted to try but haven't yet?",
+      "If you could meet any fictional character, who would it be?",
+      "What's a skill you wish you had?"
+    ],
+    [
+      "What's your favorite book or movie and why?",
+      "If you could live in any country for a year, where would it be?",
+      "What's one thing that always makes you smile?"
+    ],
+    [
+      "What's the best advice you've ever received?",
+      "If you could witness any event in history, what would it be?",
+      "What's a cause you're passionate about?"
+    ],
+    [
+      "What's your favorite way to spend a weekend?",
+      "If you could have any job for a day, what would it be?",
+      "What's a goal you're currently working towards?"
+    ],
+    [
+      "What's a unique talent you have?",
+      "If you could instantly become an expert in something, what would it be?",
+      "What's your favorite way to get creative?"
+    ],
+    [
+      "What's a quote that inspires you?",
+      "If you could be any animal for a day, what would you be?",
+      "What's something new you've learned recently?"
+    ],
+    [
+      "What's your favorite season and why?",
+      "If you could have a conversation with your future self, what would you ask?",
+      "What's a project you're excited about?"
+    ],
+    [
+      "What's the best meal you've ever had?",
+      "If you could have any talent, what would it be?",
+      "What's a challenge you've overcome recently?"
+    ],
+    [
+      "What's a book you couldn't put down?",
+      "If you could live in any time period, when would it be?",
+      "What's your favorite way to stay active?"
+    ],
+    [
+      "What's a dream you have for the future?",
+      "If you could swap lives with anyone for a day, who would it be?",
+      "What's a favorite tradition you have?"
+    ],
+    [
+      "What's the most adventurous thing you've ever done?",
+      "If you could make a documentary about anything, what would it be?",
+      "What's your favorite way to unwind?"
+    ],
+    [
+      "What's something you're grateful for today?",
+      "If you could learn any instrument, which one would it be?",
+      "What's a small act of kindness you've experienced?"
+    ],
+    [
+      "What's your favorite outdoor activity?",
+      "If you could invent something, what would it be?",
+      "What's a book that changed your life?"
+    ],
+    [
+      "What's your favorite way to express yourself?",
+      "If you could have any view from your home, what would it be?",
+      "What's something you love about your city?"
+    ],
+    [
+      "What's a favorite family recipe?",
+      "If you could have a superpower, what would it be?",
+      "What's a hobby you want to pick up?"
+    ],
+    [
+      "What's a favorite quote?",
+      "If you could travel back in time, where would you go?",
+      "What's a favorite way to spend an evening?"
+    ],
+    [
+      "What's a movie you've watched multiple times?",
+      "If you could be an expert in any field, what would it be?",
+      "What's something you've always wanted to learn?"
+    ],
+    [
+      "What's your favorite type of weather?",
+      "If you could redesign the human body, what's one improvement you'd make?",
+      "What's a favorite memory with friends?"
+    ],
+    [
+      "What's a tradition you cherish?",
+      "If you could have lunch with any living person, who would it be?",
+      "What's a book or show you're currently enjoying?"
+    ],
+    [
+      "What's a fun fact about yourself?",
+      "If you could have any job, what would it be?",
+      "What's a place that makes you feel at peace?"
+    ],
+    [
+      "What's a song that always makes you dance?",
+      "If you could change one thing about the world, what would it be?",
+      "What's something you're proud of?"
+    ],
+    [
+      "What's a subject you could talk about for hours?",
+      "If you could see any band or musician live, who would it be?",
+      "What's a favorite way to spend your free time?"
+    ],
+    [
+      "What's a habit you're trying to break?",
+      "If you could have any artist create a piece for you, who would it be?",
+      "What's something you're excited about?"
+    ],
+    [
+      "What's a favorite place you've traveled to?",
+      "If you could be a character in any book or movie, who would you be?",
+      "What's a skill you're currently learning?"
+    ],
+    [
+      "What's a favorite holiday and why?",
+      "If you could make one wish come true, what would it be?",
+      "What's a piece of advice you'd give to your younger self?"
+    ],
+    [
+      "What's a language you'd like to learn?",
+      "If you could change one law, what would it be?",
+      "What's a favorite memory from school?"
+    ],
+    [
+      "What's a type of cuisine you love?",
+      "If you could have any vehicle, what would it be?",
+      "What's something you appreciate about nature?"
+    ],
+    [
+      "What's a skill you admire in others?",
+      "If you could visit any planet, which one would you choose?",
+      "What's a favorite way to spend time with family?"
+    ],
+    [
+      "What's a favorite book from your childhood?",
+      "If you could have any animal as a pet, what would it be?",
+      "What's a project you're proud of?"
+    ],
+    [
+      "What's a game you enjoy playing?",
+      "If you could solve one mystery, what would it be?",
+      "What's a favorite type of exercise?"
+    ],
+    [
+      "What's a favorite dessert?",
+      "If you could bring back any trend, what would it be?",
+      "What's something you've accomplished recently?"
+    ],
+    [
+      "What's a movie genre you love?",
+      "If you could have a dream home anywhere, where would it be?",
+      "What's a goal you have for this year?"
+    ],
+    [
+      "What's a skill you'd like to master?",
+      "If you could be any age for a week, what age would you choose?",
+      "What's a favorite way to relax?"
+    ],
+    [
+      "What's a favorite place to read?",
+      "If you could attend any event in history, what would it be?",
+      "What's something you're thankful for?"
+    ],
+    [
+      "What's a subject you wish was taught in school?",
+      "If you could create a new holiday, what would it be?",
+      "What's a favorite way to celebrate achievements?"
+    ],
+    [
+      "What's a favorite thing about your home?",
+      "If you could spend a day with any fictional character, who would it be?",
+      "What's a favorite place to go for a walk?"
+    ],
+    [
+      "What's a hobby you've been doing for years?",
+      "If you could change one thing about yourself, what would it be?",
+      "What's a favorite way to spend a rainy day?"
+    ],
+    [
+      "What's a favorite meal to cook?",
+      "If you could meet any celebrity, who would it be?",
+      "What's something you've always wanted to build or create?"
+    ],
+    [
+      "What's a favorite way to stay fit?",
+      "If you could have any piece of technology, what would it be?",
+      "What's a favorite tradition you have?"
+    ],
+    [
+      "What's a place you'd love to explore?",
+      "If you could start your own business, what would it be?",
+      "What's a favorite way to spend a day off?"
+    ],
+    [
+      "What's a favorite type of weather?",
+      "If you could invent a new gadget, what would it do?",
+      "What's a favorite way to connect with friends?"
+    ],
+    [
+      "What's a favorite comfort food?",
+      "If you could change one thing about the world, what would it be?",
+      "What's something you're looking forward to?"
+    ],
+    [
+      "What's a favorite book genre?",
+      "If you could meet your favorite author, what would you ask them?",
+      "What's a favorite way to relax on weekends?"
+    ],
+    [
+      "What's a favorite childhood memory?",
+      "If you could learn any skill instantly, what would it be?",
+      "What's a favorite way to start your day?"
+    ],
+    [
+      "What's a favorite thing about your culture?",
+      "If you could live in any fictional world, where would it be?",
+      "What's a favorite way to spend time outdoors?"
+    ],
+    [
+      "What's a favorite way to give back to the community?",
+      "If you could have any view from your window, what would it be?",
+      "What's a favorite way to spend a summer day?"
+    ],
+    [
+      "What's a book you recommend to everyone?",
+      "If you could have any job for a month, what would it be?",
+      "What's a favorite way to unwind after a busy day?"
+    ],
+    [
+      "What's a favorite way to spend time with family?",
+      "If you could have any piece of art, what would it be?",
+      "What's a favorite thing about nature?"
+    ],
+    [
+      "What's a skill you're proud of?",
+      "If you could learn any craft, what would it be?",
+      "What's a favorite place to relax?"
+    ],
+    [
+      "What's a favorite way to stay healthy?",
+      "If you could visit any city in the world, where would it be?",
+      "What's a favorite way to spend time with friends?"
+    ],
+    [
+      "What's a hobby you'd like to start?",
+      "If you could see any natural wonder, what would it be?",
+      "What's a favorite memory from a holiday?"
+    ],
+    [
+      "What's a favorite type of music?",
+      "If you could create a new sport, what would it be?",
+      "What's a favorite way to celebrate a milestone?"
+    ],
+    [
+      "What's a favorite thing to do on weekends?",
+      "If you could have any job, what would it be?",
+      "What's a favorite way to stay active?"
+    ],
+    [
+      "What's a favorite way to spend a winter day?",
+      "If you could visit any place from a book or movie, where would it be?",
+      "What's a favorite way to relax at home?"
+    ],
+    [
+      "What's a favorite meal to share with friends?",
+      "If you could learn any sport, what would it be?",
+      "What's a favorite thing about your neighborhood?"
+    ],
+    [
+      "What's a favorite way to start your morning?",
+      "If you could meet any historical figure, who would it be?",
+      "What's a favorite thing to do on vacation?"
+    ],
+    [
+      "What's a favorite way to spend a lazy day?",
+      "If you could have any talent, what would it be?",
+      "What's a favorite way to stay connected with friends?"
+    ],
+    [
+      "What's a favorite thing about your best friend?",
+      "If you could travel anywhere in the world, where would you go?",
+      "What's a favorite way to spend a birthday?"
+    ],
+    [
+      "What's a favorite family tradition?",
+      "If you could learn any dance, what would it be?",
+      "What's a favorite thing to do on a road trip?"
+    ],
+    [
+      "What's a favorite type of food?",
+      "If you could have any job for a day, what would it be?",
+      "What's a favorite way to spend a holiday?"
+    ],
+    [
+      "What's a favorite way to be creative?",
+      "If you could visit any country, where would you go?",
+      "What's a favorite way to spend a Saturday?"
+    ],
+    [
+      "What's a favorite memory from last year?",
+      "If you could have any skill, what would it be?",
+      "What's a favorite thing about your hometown?"
+    ],
+    [
+      "What's a favorite way to spend a sunny day?",
+      "If you could meet any fictional character, who would it be?",
+      "What's a favorite way to relax on a Sunday?"
+    ],
+    [
+      "What's a favorite way to stay motivated?",
+      "If you could have any job, what would it be?",
+      "What's a favorite way to spend a day off?"
+    ],
+    [
+      "What's a favorite thing about your favorite book?",
+      "If you could visit any place in history, where would it be?",
+      "What's a favorite way to spend a rainy afternoon?"
+    ],
+    [
+      "What's a favorite way to learn something new?",
+      "If you could have any superpower, what would it be?",
+      "What's a favorite way to spend time with family?"
+    ],
+    [
+      "What's a favorite way to stay organized?",
+      "If you could visit any place in the universe, where would it be?",
+      "What's a favorite way to spend an evening?"
+    ],
+    [
+      "What's a favorite way to stay fit?",
+      "If you could meet any musician, who would it be?",
+      "What's a favorite way to spend a day outdoors?"
+    ],
+    [
+      "What's a favorite way to stay productive?",
+      "If you could learn any language, what would it be?",
+      "What's a favorite way to spend a weekend?"
+    ],
+    [
+      "What's a favorite way to relax at home?",
+      "If you could visit any national park, which one would it be?",
+      "What's a favorite way to spend a vacation?"
+    ],
+    [
+      "What's a favorite way to celebrate a special occasion?",
+      "If you could meet any historical figure, who would it be?",
+      "What's a favorite way to spend a summer evening?"
+    ],
+    [
+      "What's a favorite way to stay healthy?",
+      "If you could learn any instrument, what would it be?",
+      "What's a favorite way to spend a winter day?"
+    ],
+    [
+      "What's a favorite way to start your morning?",
+      "If you could meet any artist, who would it be?",
+      "What's a favorite way to spend a holiday?"
+    ],
+    [
+      "What's a favorite way to unwind after a long day?",
+      "If you could visit any place from a movie, where would it be?",
+      "What's a favorite way to spend a Sunday?"
+    ],
+    [
+      "What's a favorite way to stay creative?",
+      "If you could have any view from your window, what would it be?",
+      "What's a favorite way to spend a summer day?"
+    ],
+    [
+      "What's a favorite way to be kind?",
+      "If you could learn any skill, what would it be?",
+      "What's a favorite way to spend a birthday?"
+    ],
+    [
+      "What's a favorite way to spend a weekend?",
+      "If you could meet any author, who would it be?",
+      "What's a favorite way to spend time with friends?"
+    ],
+    [
+      "What's a favorite way to stay active?",
+      "If you could visit any city in the world, where would it be?",
+      "What's a favorite way to spend a day at home?"
+    ],
+    [
+      "What's a favorite way to stay motivated?",
+      "If you could have any job for a week, what would it be?",
+      "What's a favorite way to spend a rainy day?"
+    ],
+    [
+      "What's a favorite way to celebrate a milestone?",
+      "If you could learn any craft, what would it be?",
+      "What's a favorite way to spend a winter afternoon?"
+    ],
+    [
+      "What's a favorite way to spend a lazy afternoon?",
+      "If you could meet any living person, who would it be?",
+      "What's a favorite way to spend time with family?"
+    ],
+    [
+      "What's a favorite way to stay fit?",
+      "If you could visit any country, where would it be?",
+      "What's a favorite way to spend a summer morning?"
+    ],
+    [
+      "What's a favorite way to spend a Saturday?",
+      "If you could have any pet, what would it be?",
+      "What's a favorite way to spend a holiday?"
+    ],
+    [
+      "What's a favorite way to be creative?",
+      "If you could meet any scientist, who would it be?",
+      "What's a favorite way to spend a Sunday?"
+    ],
+    [
+      "What's a favorite way to spend time outdoors?",
+      "If you could visit any natural wonder, what would it be?",
+      "What's a favorite way to spend a rainy afternoon?"
+    ],
+    [
+      "What's a favorite way to stay productive?",
+      "If you could have any superpower, what would it be?",
+      "What's a favorite way to spend time with friends?"
+    ],
+    [
+      "What's a favorite way to spend a winter evening?",
+      "If you could visit any place from a book, where would it be?",
+      "What's a favorite way to spend a summer evening?"
+    ],
+    [
+      "What's a favorite way to stay organized?",
+      "If you could meet any historical figure, who would it be?",
+      "What's a favorite way to spend a day off?"
+    ],
+    [
+      "What's a favorite way to relax on weekends?",
+      "If you could learn any language, what would it be?",
+      "What's a favorite way to spend time with family?"
+    ],
+    [
+      "What's a favorite way to start your day?",
+      "If you could visit any city, where would it be?",
+      "What's a favorite way to spend a holiday?"
+    ],
+    [
+      "What's a favorite way to spend a sunny day?",
+      "If you could have any talent, what would it be?",
+      "What's a favorite way to spend a rainy day?"
+    ],
+    [
+      "What's a favorite way to stay healthy?",
+      "If you could meet any living person, who would it be?",
+      "What's a favorite way to spend a winter afternoon?"
+    ],
+    [
+      "What's a favorite way to be kind?",
+      "If you could visit any place in history, where would it be?",
+      "What's a favorite way to spend a summer morning?"
+    ],
+    [
+      "What's a favorite way to celebrate a special occasion?",
+      "If you could have any job for a month, what would it be?",
+      "What's a favorite way to spend time with friends?"
+    ],
+    [
+      "What's a favorite way to relax after a busy week?",
+      "If you could visit any planet, where would you go?",
+      "What's a favorite way to spend a holiday?"
+    ],
+    [
+      "What's your favorite childhood memory?",
+      "If you could spend a day in someone else's shoes, whose would they be and why?",
+      "What's the most valuable lesson you've learned so far?"
+    ],
+    [
+      "What's something you've always wanted to try but haven't yet?",
+      "If you could have dinner with anyone, living or dead, who would it be and why?",
+      "What's a moment in your life you wish you could relive?"
+    ],
+    [
+      "What's your biggest fear and how do you manage it?",
+      "If you could change one thing about your past, what would it be?",
+      "What's the best piece of advice you've ever received?"
+    ],
+    [
+      "What's your favorite way to spend a day off?",
+      "If you could instantly become an expert in something, what would it be?",
+      "What's a personal goal you're currently working towards?"
+    ],
+    [
+      "What's a dream you've never shared with anyone?",
+      "If you could live anywhere in the world, where would it be and why?",
+      "What's the most challenging thing you've ever done?"
+    ],
+    [
+      "What's your favorite way to express creativity?",
+      "If you could have any job in the world, what would it be?",
+      "What's a personal achievement you're most proud of?"
+    ],
+    [
+      "What's something you wish you were better at?",
+      "If you could meet your younger self, what advice would you give them?",
+      "What's your idea of a perfect day?"
+    ],
+    [
+      "What's a skill you've always wanted to learn?",
+      "If you could switch lives with anyone for a week, who would it be?",
+      "What's your favorite way to unwind after a stressful day?"
+    ],
+    [
+      "What's the best compliment you've ever received?",
+      "If you could witness any event in history, what would it be?",
+      "What's a habit you're trying to break or form?"
+    ],
+    [
+      "What's something you're passionate about and why?",
+      "If you could time travel, would you go to the past or the future?",
+      "What's a personal challenge you've overcome recently?"
+    ],
+    [
+      "What's your favorite thing about yourself?",
+      "If you could write a letter to your future self, what would you say?",
+      "What's a hobby that brings you joy?"
+    ],
+    [
+      "What's the most adventurous thing you've ever done?",
+      "If you could change one thing about the world, what would it be?",
+      "What's a memory that always makes you smile?"
+    ],
+    [
+      "What's your favorite way to spend quality time with loved ones?",
+      "If you could have any talent, what would it be?",
+      "What's a dream or goal you have for the future?"
+    ],
+    [
+      "What's something you're grateful for today?",
+      "If you could master any instrument, which one would it be?",
+      "What's the most interesting place you've ever visited?"
+    ],
+    [
+      "What's your favorite way to stay healthy?",
+      "If you could have any animal as a pet, what would it be?",
+      "What's a personal project you're working on?"
+    ],
+    [
+      "What's something you're looking forward to?",
+      "If you could have a superpower for a day, what would it be?",
+      "What's a cause that's important to you?"
+    ],
+    [
+      "What's your favorite book or movie and why?",
+      "If you could relive one moment in your life, what would it be?",
+      "What's a skill you're currently trying to improve?"
+    ],
+    [
+      "What's a tradition you cherish?",
+      "If you could change one thing about your personality, what would it be?",
+      "What's your favorite way to start the day?"
+    ],
+    [
+      "What's something you've accomplished recently?",
+      "If you could have any job for a day, what would it be?",
+      "What's your favorite way to relax on weekends?"
+    ],
+    [
+      "What's a place that makes you feel at peace?",
+      "If you could have any piece of technology, what would it be?",
+      "What's a memory you treasure?"
+    ],
+    [
+      "What's something you admire in others?",
+      "If you could speak any language fluently, which one would you choose?",
+      "What's a goal you'veourself this year?"
+    ],
+    [
+      "What's your favorite thing to do on a rainy day?",
+      "If you could see into the future, what would you want to know?",
+      "What's something you're passionate about?"
+    ],
+    [
+      "What's a fear you've conquered?",
+      "If you could have a conversation with anyone from history, who would it be?",
+      "What's a favorite memory with friends?"
+    ],
+    [
+      "What's your favorite way to recharge?",
+      "If you could live in any historical period, which one would you choose?",
+      "What's a personal milestone you're proud of?"
+    ],
+    [
+      "What's a book that's had a big impact on you?",
+      "If you could be famous for one thing, what would it be?",
+      "What's your favorite way to stay active?"
+    ],
+    [
+      "What's something you'd like to learn more about?",
+      "If you could change one decision you've made, what would it be?",
+      "What's your favorite way to spend a day at home?"
+    ],
+    [
+      "What's a personal dream you have?",
+      "If you could have dinner with any celebrity, who would it be?",
+      "What's your favorite way to de-stress?"
+    ],
+    [
+      "What's your favorite way to celebrate special occasions?",
+      "If you could have any view from your window, what would it be?",
+      "What's a lesson you've learned recently?"
+    ],
+    [
+      "What's something you wish more people knew about you?",
+      "If you could instantly know how to do anything, what would it be?",
+      "What's a place you go to for inspiration?"
+    ],
+    [
+      "What's your favorite way to make new friends?",
+      "If you could redo any day in your life, what would it be?",
+      "What's something that always makes you laugh?"
+    ],
+    [
+      "What's a hobby you've always wanted to try?",
+      "If you could have any job in the world, what would it be?",
+      "What's your favorite way to spend time with family?"
+    ],
+    [
+      "What's your biggest accomplishment?",
+      "If you could switch places with anyone for a day, who would it be?",
+      "What's a personal motto you live by?"
+    ],
+    [
+      "What's your favorite way to relax on a Sunday?",
+      "If you could visit any fictional world, where would you go?",
+      "What's something you're working hard to achieve?"
+    ],
+    [
+      "What's a memorable experience from your travels?",
+      "If you could instantly master any subject, what would it be?",
+      "What's your favorite way to start a new week?"
+    ],
+    [
+      "What's a passion project you're currently working on?",
+      "If you could have any animal as a pet, what would it be?",
+      "What's your favorite way to stay motivated?"
+    ],
+    [
+      "What's something you've always wanted to learn?",
+      "If you could have any car, what would it be?",
+      "What's a goal you hope to accomplish in the next year?"
+    ],
+    [
+      "What's a fear you're trying to overcome?",
+      "If you could have any superpower, what would it be?",
+      "What's your favorite way to celebrate small victories?"
+    ],
+    [
+      "What's a favorite family tradition?",
+      "If you could meet any historical figure, who would it be?",
+      "What's something you're looking forward to?"
+    ]
+]
+  
