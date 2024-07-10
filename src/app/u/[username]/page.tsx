@@ -28,7 +28,7 @@ import { useToast } from '@/components/ui/use-toast'
 import { Separator } from '@radix-ui/react-separator'
 
 
-function uPage() {
+function Page() {
     const[sending,setIsSendindg] = useState(false)
     const[suggestMessage,setSuggestMessage] = useState([''])
     const param = useParams<{username:string}>()
@@ -133,4 +133,4 @@ function uPage() {
   )
 }
 
-export default uPage
+export default Page

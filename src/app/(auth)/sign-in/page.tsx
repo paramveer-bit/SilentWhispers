@@ -16,7 +16,7 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { Loader2 } from "lucide-react"
 import { signInSchema } from "@/schemas/signInSchema"
-function signInPage() {
+function SignInPage() {
 
   const [isSubmitting,setIsSubmitting] = useState(false)
 
@@ -118,4 +118,4 @@ function signInPage() {
   )
 }
 
-export default signInPage
+export default SignInPage

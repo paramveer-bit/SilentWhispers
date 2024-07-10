@@ -13,7 +13,7 @@ import { string } from 'zod'
 import dynamic from 'next/dynamic'
 import * as z from 'zod'
 
-function verifyAccount() {
+function VerifyAccount() {
     const router = useRouter()
     const param = useParams<{username : string}>()
     const {toast} = useToast()
@@ -105,4 +105,4 @@ function verifyAccount() {
   )
 }
 
-export default verifyAccount
+export default VerifyAccount

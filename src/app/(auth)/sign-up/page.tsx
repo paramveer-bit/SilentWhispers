@@ -17,7 +17,7 @@ import { Loader2 } from "lucide-react"
 import { ApiResponse } from "@/types/ApiResponse"
 
 
-const signInPage = ()=> {
+const SignInPage = ()=> {
 
   const [username,setUsername] =  useState('')
   const [usernameMessage,setUsernameMessage] = useState('')
@@ -168,4 +168,4 @@ const signInPage = ()=> {
   )
 }
 
-export default signInPage
+export default SignInPage

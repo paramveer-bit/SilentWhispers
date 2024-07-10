@@ -16,7 +16,7 @@ import { useCallback, useEffect, useState } from "react"
 import { useForm } from "react-hook-form"
 
 
-function dashboardPage() {
+function DashboardPage() {
   const[messages,setMessages] = useState<Message[]>([])
   const[isLoading,setIsLoading] = useState(false)
   const[isSwitchLoading,setIsSwitchLoading] = useState(false)
@@ -50,7 +50,7 @@ function dashboardPage() {
     } finally{
       setIsSwitchLoading(false)
     }
-  },[setValue])
+  },[setValue,toast])
 
   const fetchMessages = useCallback(async(refresh:boolean = false)=>{
     setIsLoading(true)
@@ -76,14 +76,14 @@ function dashboardPage() {
       setIsSwitchLoading(false)
 
     }
-  },[setIsLoading,setMessages])
+  },[setIsLoading,setMessages,toast])
 
   useEffect(()=>{
     if(!session || !session.user) return
     fetchMessages()
     featchAcceptMessage()
   },
-    [session,setValue,featchAcceptMessage,fetchMessages]
+    [session,setValue,featchAcceptMessage,fetchMessages,toast]
   )
 
   //handel swich chnage
@@ -184,4 +184,4 @@ function dashboardPage() {
   )
 }
 
-export default dashboardPage
+export default DashboardPage
