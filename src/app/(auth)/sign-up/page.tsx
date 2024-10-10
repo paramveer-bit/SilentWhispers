@@ -58,7 +58,7 @@ const SignInPage = ()=> {
       }
     }
     checkUsernameUnique()
-  },[username])
+  },[username]) 
 
   const onSubmit = async (data:z.infer<typeof signUpSchema>) =>{
     setIsSubmitting(true)
