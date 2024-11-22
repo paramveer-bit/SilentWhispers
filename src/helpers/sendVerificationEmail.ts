@@ -1,6 +1,5 @@
 import MailHelper from "@/helpers/nodeMailer"
 import EmailTemplate from "@/helpers/EmailTemplate"
-import { ApiResponse } from "@/types/ApiResponse"
 
 
 export async function sendVerificationMail(
