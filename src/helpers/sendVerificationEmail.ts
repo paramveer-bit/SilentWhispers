@@ -13,8 +13,8 @@ export async function sendVerificationMail(
         <p>Your Code is</p> <h1>${verificationCode}</h1>
         `
 
-        console.log(process.env.EMAIL)
-        console.log(process.env.PASSWORD)
+        // console.log(process.env.EMAIL)
+        // console.log(process.env.PASSWORD)
         const res = await MailHelper({
             from: 'onboarding@resend.dev',
             to: email,
