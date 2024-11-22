@@ -1,7 +1,9 @@
 import nodemailer from "nodemailer";
 
 const transporter = nodemailer.createTransport({
-    service: 'gmail',
+    host: 'smtp.gmail.com',
+    port: 587,
+    secure: false,
     auth: {
         user: process.env.EMAIL,
         pass: process.env.PASSWORD,
@@ -19,6 +21,8 @@ type Mail = {
 // async..await is not allowed in global scope, must use a wrapper
 async function mail({ to, subject, text, html, from }: Mail) {
     console.log("starting")
+    console.log(process.env.EMAIL)
+    console.log(process.env.PASSWORD)
     // send mail with defined transport object
     const info = await transporter.sendMail({
         from: from, // sender address
